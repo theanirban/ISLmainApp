@@ -6,3 +6,4 @@ psutil==5.9.2
 streamlit==1.19.0
 torch==2.0.0
 torchvision
+yaml
